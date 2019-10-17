@@ -4,16 +4,22 @@ body {
 }
 
 .row {
-  background-color: grey;
+  background-color: #F0E7E5;
   padding-left: 20px;
 }
-.col-lg-2 {
 
-}
 
 ul {
   margin-top: 20px
 }
 .right {
   text-align: right;
+}
+img {
+  width: 150px;
+  float: left;
+}
+.first {
+  width: 150px;
+  float: right;
 }
