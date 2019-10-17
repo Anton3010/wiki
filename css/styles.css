@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.row {
+  background-color: grey;
+  padding-left: 20px;
+}
+.col-lg-2 {
+
+}
+
+ul {
+  margin-top: 20px
+}
+.right {
+  text-align: right;
+}
